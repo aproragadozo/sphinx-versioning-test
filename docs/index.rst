@@ -12,6 +12,8 @@ Presenting an option for maintaining documentation for multiple software version
    :maxdepth: 2
    :caption: Contents:
 
+   sample_topic_00
+
 
 
 Indices and tables

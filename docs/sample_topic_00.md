@@ -1,4 +1,6 @@
-# This is to test whether markdown and rest can really be mixed within the same project
+# Markdown Test Topic
+
+This is to test whether markdown and rest can really be mixed within the same project.
 
 This text has been created in Markdown.
 
