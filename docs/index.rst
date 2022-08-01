@@ -10,7 +10,6 @@ Presenting an option for maintaining documentation for multiple software version
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    sample_one
 
