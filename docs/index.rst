@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Veriff Doc Versioning Test's documentation!
+Veriff Doc Versioning Test
 ======================================================
+
+Presenting an option for maintaining documentation for multiple software versions.
 
 .. toctree::
    :maxdepth: 2
