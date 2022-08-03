@@ -43,4 +43,4 @@ Here's the basic overview of how you can verify a user's identity using a Veriff
 5. You fetch a decision for the verification session using one of the following options:
 
    * `Webhooks <https://developers.veriff.com/#wait-for-webhook-response>`_
-   * `The ``/sessions/{sessionID}/decision`` endpoint` <https://developers.veriff.com/#sessions-sessionid-decision>`_
+   * `The /sessions/{sessionID}/decision endpoint <https://developers.veriff.com/#sessions-sessionid-decision>`_
