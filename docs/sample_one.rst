@@ -3,7 +3,7 @@ Sessions Lifecycle
 
 Here's the basic overview of how you can verify a user's identity using a Veriff verification session.
 
-.. figure:: img/sessionflow.png
+.. figure:: img/sessionflow_1.2.png
    :alt: sequence diagram for sessions Lifecycle
 
 1. You start a verification flow for your vendor by posting to the ``https://<Base-URL>/v1/sessions`` endpoint a JSON object with details of the user to be verified.
